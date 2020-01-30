@@ -13,3 +13,4 @@ Schedule as follows
 | [Week 3](https://github.com/dkotschessa/LittleBlackBookOnTestDesignBookClub/tree/master/Week3)| Synthesizing Test Ideas |
 | [Week 4](https://github.com/dkotschessa/LittleBlackBookOnTestDesignBookClub/tree/master/Week4) | Test Execution and Finale|
 
+This book is DENSE and contains of concepts, research, and links for further exploration.  I am hoping that we can bring these resources together in this repository, as well as create any tools, charts, or visuals that will help solidify the material.
