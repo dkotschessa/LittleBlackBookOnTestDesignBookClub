@@ -7,7 +7,7 @@ Schedule as follows
 
 | Week | Section|
 |--------|---------------------------------------------
-| Week 1 | Introduction and Software Testing Inspiration|
-| Week 2 | Analysis|
-| Week 3 | Synthesizing Test Ideas |
-| Week 4 | Test Execution and Finale|
+| [Week 1](https://github.com/dkotschessa/LittleBlackBookOnTestDesignBookClub/tree/master/Week1) | Introduction and Software Testing Inspiration|
+| [Week 2](https://github.com/dkotschessa/LittleBlackBookOnTestDesignBookClub/tree/master/Week2) | Analysis|
+| [Week 3](https://github.com/dkotschessa/LittleBlackBookOnTestDesignBookClub/tree/master/Week3)| Synthesizing Test Ideas |
+| [Week 4](https://github.com/dkotschessa/LittleBlackBookOnTestDesignBookClub/tree/master/Week4) | Test Execution and Finale|
