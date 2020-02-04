@@ -10,7 +10,7 @@ Some links and research from the book:
 
 [Is your testing saturated?](http://thetesteye.com/blog/2010/04/is-your-testing-saturated/)
 
-  - Linked from above and also interesting [A Framwork for Good Enough Testing](https://www.satisfice.com/download/a-framework-for-good-enough-testing)
+  - Linked from above and also interesting [A Framework for Good Enough Testing](https://www.satisfice.com/download/a-framework-for-good-enough-testing)
   
 [Modeling Scenarios using Data](http://www.quality-intelligence.net/articles/Modelling%20Scenarios%20Using%20Data_Paper_Fiona%20Charles_CAST%202009_Final.pdf)
 
